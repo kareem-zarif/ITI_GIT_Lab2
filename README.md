@@ -4,5 +4,5 @@
 ``` git branch -d branch_name```
 
 ## remove brances remote
-```git push origin :branch_name
+```git push origin :branch_name```
 
